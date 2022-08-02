@@ -2,7 +2,7 @@ console.clear()
 const prompt = require('prompt-sync')();
 
 let contagemSim = 0
-
+//journey
 // Achei interessante para poluir menos o código, armazenar od=s dialogos todos aqui antes!
 
 let dialogoInicio = `Voce esta em sua casa, seu esposo(a) saiu com seus filhos, quando derrepente começa um plantão na tv......
